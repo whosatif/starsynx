@@ -1,0 +1,7 @@
+# CEO Message Image Placeholder
+# 
+# To use the actual CEO image:
+# 1. Save the CEO message image from your attachment as 'ceo-message.jpg' in this location
+# 2. Update the AboutPage.tsx to use this image
+#
+# The image should show Muhammad Hamza Nadeem in his blue suit as shown in the attachment

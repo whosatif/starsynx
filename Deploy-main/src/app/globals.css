@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #0A192F;
+  --color-secondary: #112240;
+  --color-accent: #00AEEF;
+  --color-text-light: #CCD6F6;
+  --color-text-dark: #112240;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+}
